@@ -1,6 +1,6 @@
 ### Fixed Footer ![Image](https://img.shields.io/pypi/status/Django.svg)
 
-   To use this project, you must access the **[fixed_footer](https://github.com/dominoesbase/WebDevelopment/tree/master/fixed_footer)** folder and incorporate into the project.
+   To incorporate **Fixed Footer** into your project, you should follow these steps.
    + First Step
    ```javascript
       <script src="assets/js/footer-fixed.js"></script>
