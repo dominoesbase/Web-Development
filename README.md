@@ -1,6 +1,6 @@
 ### Description
 
-This repository contains resolutions to fix specific problems during web development.
+This repository contains resolutions to fix specific problems during web development
 ___
 
 ### Projects List
