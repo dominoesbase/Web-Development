@@ -8,5 +8,4 @@ function fixFooter() {
  }
 }
 
-//
 setInterval(function(){fixFooter()}, 0);
