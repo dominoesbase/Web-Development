@@ -1,28 +1,21 @@
 ### Description
 
-This repository contains resolutions to fix specific problems during web development.
+This repository contains features to fix specific issues or facilitate implementation during web development.
 ___
 
-### Projects List
+### Features list
 
-   ###### Fixed Footer  
-      This project allows you to correct the position of the footer depending 
-      on the zoom applied in the browser. 
+   ###### Fixed Footer ![Image](https://img.shields.io/pypi/status/Django.svg)
+      This feature allows you to correct the position of the footer depending 
+      on the zoom in the browser. 
+   ###### Google Maps Embed  ![Image](https://img.shields.io/pypi/status/Django.svg)
+      This feature aims to facilitate the incorporation of Google Maps on your website.
 ___
 
-### Fixed Footer ![Image](https://img.shields.io/pypi/status/Django.svg)
+### Last Revision
 
-   To use this project, you must access the **[fixed_footer](https://github.com/dominoesbase/WebDevelopment/tree/master/fixed_footer)** folder and incorporate into the project.
-   + First Step
-   ```javascript
-      <script src="assets/js/footer-fixed.js"></script>
-   ``` 
-   + Second Step
-   ```html
-    <footer id="footer">
-      <!-- Contents of your footer -->
-    </footer>
-   ```
+2019/03
+
 ___
 
 ### Author
