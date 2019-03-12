@@ -1,6 +1,4 @@
-# Google Maps Embed ![Image](https://img.shields.io/pypi/status/Django.svg)
-
-## Description
+## Google Maps Embed ![Image](https://img.shields.io/pypi/status/Django.svg)
 This feature aims to facilitate the incorporation of Google Maps on your website.
 
 ## Incorporate
