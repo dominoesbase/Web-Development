@@ -1,12 +1,12 @@
 ### Fixed Footer ![Image](https://img.shields.io/pypi/status/Django.svg)
 
-   To incorporate **Fixed Footer** into your project, you should follow these steps.
+   To incorporate this feature into your project, you should follow these steps.
    + First Step
-   ```javascript
+   ```javascript - after footer tag
       <script src="assets/js/footer-fixed.js"></script>
-   ``` 
+   ```
    + Second Step
-   ```html
+   ```html - insert id on footer tag
     <footer id="footer">
       <!-- Contents of your footer -->
     </footer>
