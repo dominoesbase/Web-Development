@@ -1,5 +1,7 @@
+# Google Maps Embed ![Image](https://img.shields.io/pypi/status/Django.svg)
+
 ## Description
-This project aims to facilitate the incorporation of Google Maps on your website.
+This feature aims to facilitate the incorporation of Google Maps on your website.
 
 ## Incorporate
 In your HTML project you should add the following:
@@ -11,10 +13,10 @@ In your HTML project you should add the following:
 Note: enter your Api Key. [Read More!](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
 ## Add your Information
-Change the information according to your preferences. (GoogleMapInfo.js)
+Change the information on GoogleMapInfo.js according to your preferences.
 ```javascript
 var mapsInfo = new Array(
-                 38.729792, // latitue
+                 38.729792, // latitude
                  -9.164625, // longitude
                  "url('./img/pin.png')", // image pin
                  'CHANGE ALERT TEXT', // alert user
@@ -24,9 +26,4 @@ var mapsInfo = new Array(
                  14); // zoom map
 ```
 ## Author
-
 * [dominoesbase](https://twitter.com/jorgedominoes)
-
-
-
-
