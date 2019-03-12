@@ -1,5 +1,5 @@
 ## Fixed Footer ![Image](https://img.shields.io/pypi/status/Django.svg)
-  This feature allows you to correct the position of the footer depending on the zoom in the browser. 
+  This feature allows you to correct the position of the footer depending on the zoom in the browser.
 
 ## Incorporate
    To incorporate this feature into your project, you should follow these steps.
@@ -13,8 +13,7 @@
       <!-- Contents of your footer -->
     </footer>
    ```
-___
-
+   
 ## Author
 
 * [dominoesbase](https://twitter.com/jorgedominoes)
